@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+Thu Jun 20 18:08:57 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016b-74e5-aa8f-000004249ec8 
+on database directory memory:C:\Users\ripud\Documents\Training_workspace\microservices-pune-june-2019\customer-ms\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/ripud/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=C:\Users\ripud\Documents\Training_workspace\microservices-pune-june-2019\customer-ms
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 20 18:28:31 IST 2019:
+Shutting down instance a816c00e-016b-74e5-aa8f-000004249ec8 on database directory memory:C:\Users\ripud\Documents\Training_workspace\microservices-pune-june-2019\customer-ms\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Thu Jun 20 18:28:38 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 070a00b0-016b-74e5-aa8f-000004249ec8 
+on database directory memory:C:\Users\ripud\Documents\Training_workspace\microservices-pune-june-2019\customer-ms\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/ripud/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=C:\Users\ripud\Documents\Training_workspace\microservices-pune-june-2019\customer-ms
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 20 18:31:46 IST 2019:
+Shutting down instance 070a00b0-016b-74e5-aa8f-000004249ec8 on database directory memory:C:\Users\ripud\Documents\Training_workspace\microservices-pune-june-2019\customer-ms\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
